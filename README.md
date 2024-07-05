@@ -1,4 +1,7 @@
 # CSUEB-dvdCollection-GUI
+Application for cataloging a DVD collection. The application allows a user to keep track of all their DVDs. Basic information is
+kept for every DVD title in the collection. The application is currently a console application, but
+a GUI has been started for you.
 Your assignment is to create a better GUI for the DVD Manager application from
 previous assignments. You are given a starter window called, “DVDGUI.java.” This
 window contains buttons to run the commands and input boxes to collect the data. Add
